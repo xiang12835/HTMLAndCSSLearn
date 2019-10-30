@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5504ae3-2036-4bae-bcd2-e8291e1db1fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/bg-header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/bg-triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/header-triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_practice/practice_1/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/more1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/more2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/more3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/more4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_practice/practice_1/images/triangles.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web_practice/practice_1/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_practice/practice_1/layout.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572277769299</updated>
       <workItem from="1572277770724" duration="2760000" />
-      <workItem from="1572405171829" duration="5521000" />
+      <workItem from="1572405171829" duration="7499000" />
     </task>
     <servers />
   </component>
